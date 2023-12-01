@@ -1,5 +1,7 @@
 # gomeo01-01
+His high-profile tenure, at the height of the Covid-19 pandemic, was polarising; appearing as the face and voice to the American public, Fauci received both praise and critical backlash from political factions across the country. Yet Fauci is more than just a figurehead of political divide. 
 
+From Georgetown University in Washington, DC, the 82-year-old talks with author and BBC special correspondent Katty Kay on Influential, her unscripted interview series, where she has hosted in-depth conversations with actor Wendell Pierce, on his time on Suits alongside Meghan Markle, and joined Ina Garten in her bespoke barn test kitchen to discuss how young people mythologise her cooking.
 What is it?
 A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
 
